@@ -1,0 +1,62 @@
+
+        h1{
+            color: black;
+            margin: 50px;
+            font-size: 25px;
+        }
+        h2{
+            color: black;
+            margin: 50px;
+            font-size: 20px;
+        }
+        .half{
+            margin: 50px;
+            color: grey;
+            font-size: 15px;
+            
+        }
+        section{
+            display: flex;
+        }
+        .img{
+            margin-top: 60px;
+        }
+
+        .sin{
+            margin: 100px;
+        }
+        .small{
+            text-align: justify;
+            margin: 50px;
+            font-size: 15px;
+            color: grey;
+
+        }
+
+        .nature{
+            margin: 50px;
+           
+            
+        }
+        
+        .large{
+            background-color: honeydew;
+            border: 2px solid grey;
+             padding: 20px;
+             margin-right: 10px;
+
+        }
+        .big{
+            background-color: honeydew;
+            border: 2px solid grey;
+            padding: 20px;
+            margin-right: 10px;
+        }
+        .food{
+            background-color: honeydew;
+            border: 2px solid grey;
+            padding: 20px;
+        }
+    .fas{
+        font-size: 2em;
+    }
